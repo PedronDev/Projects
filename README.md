@@ -2,7 +2,7 @@
 
 Landing page responsiva para uma hamburgueria fictícia, com vitrine de produtos, busca e chamada para pedido online.
 
-## Vis�o geral
+## Visão geral
 - Página única com seção hero, busca e grid de produtos
 - Layout responsivo com navegação e botão de chamada para ação
 - Assets de imagens organizados em `Assets/`
