@@ -1,10 +1,10 @@
 # B7Burguer
 
-Landing page responsiva para uma hamburgueria fictícia, com vitrine de produtos, busca e chamada para pedido online.
+Landing page responsiva para uma hamburgueria fictÃ­cia, com vitrine de produtos, busca e chamada para pedido online.
 
-## Visão geral
-- Página única com seção hero, busca e grid de produtos
-- Layout responsivo com navegação e botão de chamada para ação
+## VisÃ£o geral
+- PÃ¡gina Ãºnica com seÃ§Ã£o hero, busca e grid de produtos
+- Layout responsivo com navegaÃ§Ã£o e botÃ£o de chamada para aÃ§Ã£o
 - Assets de imagens organizados em `Assets/`
 
 ## Tecnologias
@@ -21,4 +21,4 @@ Landing page responsiva para uma hamburgueria fictícia, com vitrine de produtos,
 - `Assets/burgers/`
 
 ## Status
-- Projeto estático (sem JavaScript ou backend).
+- Projeto estÃ¡tico (sem JavaScript ou backend).
